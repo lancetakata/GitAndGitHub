@@ -1,0 +1,15 @@
+---
+title: "Quarto Practice Doc"
+author: "Lance T"
+format: gfm
+editor: visual
+date: 2025-01-07
+---
+
+# Hello World
+
+# \## Second priority
+
+*italics*
+
+**bold**
